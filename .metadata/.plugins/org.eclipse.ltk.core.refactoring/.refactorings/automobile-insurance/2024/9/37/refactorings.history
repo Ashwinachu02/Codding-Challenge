@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.admin.automobile_insurance.enums.FuelType&apos; to &apos;FuelTypeEnum&apos;&#x0D;&#x0A;- Original project: &apos;automobile-insurance&apos;&#x0D;&#x0A;- Original element: &apos;com.admin.automobile_insurance.enums.FuelType&apos;&#x0D;&#x0A;- Renamed element: &apos;com.admin.automobile_insurance.enums.FuelTypeEnum&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;FuelType&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.admin.automobile_insurance.enums{FuelType.java[FuelType" matchStrategy="1" name="FuelTypeEnum" qualified="false" references="true" similarDeclarations="false" stamp="1726073082788" textual="false" version="1.0"/>
+</session>

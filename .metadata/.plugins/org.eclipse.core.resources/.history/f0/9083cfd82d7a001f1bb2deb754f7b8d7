@@ -1,0 +1,6 @@
+package com.springboot.jwt_security.enums;
+
+
+public enum RoleType {
+	EMPLOYEE, MANAGER, HR
+}
